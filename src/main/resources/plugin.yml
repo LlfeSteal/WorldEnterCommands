@@ -1,0 +1,5 @@
+name: 'WorldEnterCommands'
+version: '1.0.0'
+main: fr.lifesteal.worldentercommands.WorldEnterCommands
+author: lifesteal
+api-version: 1.20
